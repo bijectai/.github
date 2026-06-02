@@ -1,1 +1,1 @@
-building formally verified guardrails for agents
+formally verified guardrails for agentic systems
