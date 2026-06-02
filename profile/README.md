@@ -1,1 +1,1 @@
-bijectAI is building formally verified guardrails for AI agents
+building formally verified guardrails for agents
