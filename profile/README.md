@@ -1,1 +1,1 @@
-formally verified guardrails for agentic systems
+formally verified governance
